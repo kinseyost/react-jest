@@ -1,0 +1,5 @@
+exports[`test OtherComponent snapshot 1`] = `
+<div>
+   I am a very important component 
+</div>
+`;
